@@ -109,7 +109,7 @@
 
 ## Студия и связь
 
-Менеджер делает **ModFlow Studio** (Quaaazi и Underworld). Новости обновлений, ответы разработчиков и помощь по модам мы публикуем в наших каналах:
+Менеджер делает **ModFlow Studio**. Новости обновлений, ответы разработчиков и помощь по модам мы публикуем в наших каналах:
 
 - Telegram: [t.me/ModFlowStudio](https://t.me/ModFlowStudio)
 - Discord: [discord.gg/3wq4sZv55w](https://discord.gg/3wq4sZv55w)
