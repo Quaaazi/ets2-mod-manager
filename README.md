@@ -8,13 +8,13 @@
 
 Бесплатно · Windows 10 и 11 · 16 языков интерфейса
 
-[![Версия](https://img.shields.io/github/v/release/Quaaazi/ets2-mod-manager?color=e0a22a&label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F)](https://github.com/Quaaazi/ets2-mod-manager/releases/latest)
-[![Скачивания](https://img.shields.io/github/downloads/Quaaazi/ets2-mod-manager/total?color=e0a22a&label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9)](https://github.com/Quaaazi/ets2-mod-manager/releases)
+[![Версия](https://img.shields.io/github/v/release/ModFlowStudio/ets-ats-mod-manager?color=e0a22a&label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F)](https://github.com/ModFlowStudio/ets-ats-mod-manager/releases/latest)
+[![Скачивания](https://img.shields.io/github/downloads/ModFlowStudio/ets-ats-mod-manager/total?color=e0a22a&label=%D1%81%D0%BA%D0%B0%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%B8%D0%B9)](https://github.com/ModFlowStudio/ets-ats-mod-manager/releases)
 ![Windows 10 и 11](https://img.shields.io/badge/Windows-10%20%7C%2011-2b2f3a)
 
-### [Скачать последнюю версию](https://github.com/Quaaazi/ets2-mod-manager/releases/latest)
+### [Скачать последнюю версию](https://github.com/ModFlowStudio/ets-ats-mod-manager/releases/latest)
 
-[English](README.en.md) · [Telegram](https://t.me/ModFlowStudio) · [Discord](https://discord.gg/3wq4sZv55w) · [Поддержать проект](https://donatepay.ru/don/quaaazi)
+[English](README.en.md) · [Telegram](https://t.me/ModFlowStudio) · [Discord](https://discord.gg/3wq4sZv55w) · [Поддержать проект](https://donatepay.ru/don/ModFlowStudio)
 
 </div>
 
@@ -70,7 +70,7 @@
 
 ## Как установить
 
-1. Откройте [последнюю версию](https://github.com/Quaaazi/ets2-mod-manager/releases/latest) и скачайте установщик `ETS-ATS-Mod-Manager-Setup-….exe` (около 90 МБ) из раздела **Assets**.
+1. Откройте [последнюю версию](https://github.com/ModFlowStudio/ets-ats-mod-manager/releases/latest) и скачайте установщик `ETS-ATS-Mod-Manager-Setup-….exe` (около 90 МБ) из раздела **Assets**.
 2. Запустите его. Если Windows показывает предупреждение, нажмите «Подробнее», затем «Выполнить в любом случае». У программы пока нет платной подписи издателя, поэтому предупреждение появляется у любой неподписанной программы.
 3. При первом запуске прочитайте пользовательское соглашение и нажмите «Принять».
 4. Менеджер сам найдёт игру и профили. Дальше он обновляется кнопкой «Обновить!» прямо в программе.
@@ -99,7 +99,7 @@
 
 ## Что нового
 
-Список изменений каждой версии лежит на странице [Releases](https://github.com/Quaaazi/ets2-mod-manager/releases). Тот же текст менеджер показывает при обновлении.
+Список изменений каждой версии лежит на странице [Releases](https://github.com/ModFlowStudio/ets-ats-mod-manager/releases). Тот же текст менеджер показывает при обновлении.
 
 ## Лицензия
 
@@ -109,12 +109,12 @@
 
 ## Студия и связь
 
-Менеджер делает **ModFlow Studio**. Новости обновлений, ответы разработчиков и помощь по модам мы публикуем в наших каналах:
+Менеджер делает **ModFlow Studio** (Quaaazi и Underworld). Новости обновлений, ответы разработчиков и помощь по модам мы публикуем в наших каналах:
 
 - Telegram: [t.me/ModFlowStudio](https://t.me/ModFlowStudio)
 - Discord: [discord.gg/3wq4sZv55w](https://discord.gg/3wq4sZv55w)
 - Об ошибке можно сообщить прямо из программы: «Анализ вылета» → «Отправить отчёт разработчикам».
-- Поддержать проект: [DonatePay](https://donatepay.ru/don/quaaazi). Спасибо всем, кто уже поддержал.
+- Поддержать проект: [DonatePay](https://donatepay.ru/don/ModFlowStudio). Спасибо всем, кто уже поддержал.
 
 ---
 
